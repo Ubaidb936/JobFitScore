@@ -5,3 +5,15 @@ pandas
 pypdf
 gradio
 huggingface_hub
+langchain-community
+bitsandbytes
+transformers
+peft
+accelerate
+faiss-gpu
+
+
+ 
+
+
+
