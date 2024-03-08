@@ -1,0 +1,7 @@
+torch 
+langchain 
+sentence-transformers 
+pandas 
+pypdf
+gradio
+huggingface_hub
