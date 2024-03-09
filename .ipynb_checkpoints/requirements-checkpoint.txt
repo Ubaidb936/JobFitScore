@@ -11,6 +11,8 @@ transformers
 peft
 accelerate
 faiss-gpu
+langchain-openai
+openai
 
 
  
